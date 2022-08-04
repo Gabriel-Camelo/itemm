@@ -1,0 +1,38 @@
+export const colors = {
+
+  background: "#fff",
+  text: "#005bbb",
+
+  primary: "#005bbb",
+  secondary: "#000",
+  warning: "#ff4500",
+  error: "#FF0000",
+  success: "#9acd32",
+  info: "#d3d3d3",
+
+  muted: "#b8cbf2",
+  active: "#004287",
+  activelink: "#b5b5b5",
+
+  black: "#000",
+  white: "#fff",
+  gray: "#808080",
+  brown: "#a52a2a",
+  red: "#FF0000",
+  orange: "#ffa500",
+  yellow: "#FFFF00",
+  green: "#008000",
+  blue: "#0000ff",
+  indigo: "#4b0082",
+  violet: "#ee82ee",
+  pink: "#ffc0cb",
+  purple: "#800080",
+  teal: "#008080",
+  lime: "#00FF00",
+  olive: "#808000",
+  aqua: "#00FFFF",
+  maroon: "#800000",
+  navy: "#000080",
+  fuchsia: "#FF00FF",
+  silver: "#C0C0C0",
+}
